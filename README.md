@@ -1,4 +1,4 @@
-# StephenPrataCppPrimerPlus
+# Stephen Prata Cpp Primer Plus
 Listings and exercises
 
-Here are my solutions of the exersices from the Stephen Prata's book Cpp Primer Plus.
+Exersices solutions for each (almost) book's chapter.
